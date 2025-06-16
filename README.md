@@ -1,2 +1,2 @@
 # moodbot
-A basic AI model
+A basic AI chatbot to talk with as a friend.
